@@ -1,7 +1,7 @@
 from turtle import Turtle
 
 
-class Game_board(Turtle):
+class GameBoard(Turtle):
     def __init__(self):
         super().__init__()
         self.color('#6554AF')
